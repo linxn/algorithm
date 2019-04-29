@@ -8,7 +8,7 @@ import junit.framework.TestCase;
 import java.util.Arrays;
 
 import static org.junit.Assert.*;
-
+//尝试批量化测试
 public class SolutionTest extends TestCase {
 
     @Test
