@@ -11,7 +11,7 @@ public class Solution {
         }
         int left = 0, right = 0, max_length = Integer.MIN_VALUE;
         while (right < s.length()) {
-            if(charIndex[s.charAt(right)] != -1){
+            if(charIndex[s.charAt(right)] != -1 && charIndex[s.charAt(right)] >= left){
                 left = charIndex[s.charAt(right)] + 1;
             } else {
               max_length = Math.max(right - left + 1, max_length);

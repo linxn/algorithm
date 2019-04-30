@@ -17,9 +17,10 @@ public class SolutionTest extends TestCase {
     @Parameterized.Parameters
     public static Collection data() {
         return Arrays.asList(new Object[][] {
+                {"tmmzuxt", 5},
                 {"abcabcbb", 3},
                 {"bbbbb", 1},
-                {"pwwkew", 3}
+                {"pwwkew", 3},
         });
     }
 
