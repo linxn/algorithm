@@ -26,18 +26,18 @@ public class SolutionTest extends TestCase {
 
     int[] inputVal_1;
     int inputVal_2;
-    int[] outputVal;
+    int[] expectedVal;
 
     public SolutionTest(int[] inputVal_1, int inputVal_2 ,int[] outputVal) {
         this.inputVal_1 = inputVal_1;
         this.inputVal_2 = inputVal_2;
-        this.outputVal = outputVal;
+        this.expectedVal = outputVal;
     }
 
     @Test
     public void testTwoSum() throws Exception{
         Solution solution = new Solution();
-        assertArrayEquals(solution.twoSum(inputVal_1, inputVal_2), outputVal);
+        assertArrayEquals(solution.twoSum(inputVal_1, inputVal_2), expectedVal);
 
     }
 }

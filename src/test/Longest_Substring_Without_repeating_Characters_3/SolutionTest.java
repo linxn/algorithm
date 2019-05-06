@@ -36,6 +36,6 @@ public class SolutionTest extends TestCase {
     public void testLengthOfLongestSubstring() {
         Solution solution = new Solution();
         //System.out.println(solution.lengthOfLongestSubstring(str));
-        assertEquals(solution.lengthOfLongestSubstring(inputVal),expectedVal);
+        assertEquals(expectedVal, solution.lengthOfLongestSubstring(inputVal));
     }
 }

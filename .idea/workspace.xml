@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57b819f1-584c-4b0b-b831-16221b62bbd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Longest_Palindromic_Substring_5/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Longest_Palindromic_Substring_5/SolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/main/Longest_Substring_Without_Repeating_Characters_3/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/main/Longest_Substring_Without_Repeating_Characters_3/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/test/Longest_Substring_Without_repeating_Characters_3/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/test/Longest_Substring_Without_repeating_Characters_3/SolutionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/test/Two_Sum_1/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/test/Two_Sum_1/SolutionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Longest_Substring_Without_Repeating_Characters_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Longest_Substring_Without_Repeating_Characters_3/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Solution.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/Longest_Substring_Without_repeating_Characters_3/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Longest_Substring_Without_repeating_Characters_3/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Two_Sum_1/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Two_Sum_1/SolutionTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,69 +20,13 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Longest_Substring_Without_repeating_Characters_3/SolutionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="14" column="67" lean-forward="true" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-              <folding>
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Two_Sum_1/SolutionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Longest_Substring_Without_Repeating_Characters_3/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Two_Sum_1/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -102,10 +45,12 @@
         <option value="$PROJECT_DIR$/src/utils/ListNode.java" />
         <option value="$PROJECT_DIR$/src/main/Add_Two_Numbers_2/Solution.java" />
         <option value="$PROJECT_DIR$/src/utils/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/test/Two_Sum_1/SolutionTest.java" />
-        <option value="$PROJECT_DIR$/src/test/Longest_Substring_Without_repeating_Characters_3/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/main/Longest_Substring_Without_Repeating_Characters_3/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/Longest_Palindromic_Substring_5/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/Longest_Substring_Without_repeating_Characters_3/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/Two_Sum_1/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Longest_Palindromic_Substring_5/Solution.java" />
       </list>
     </option>
   </component>
@@ -122,8 +67,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,6 +90,20 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Longest_Palindromic_Substring_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Longest_Substring_Without_Repeating_Characters_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="Two_Sum_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -154,6 +111,20 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Longest_Palindromic_Substring_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Longest_Substring_Without_repeating_Characters_3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -166,6 +137,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,6 +162,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="test.Longest_Palindromic_Substring_5" />
       <recent name="test.Longest_Substring_Without_repeating_Characters_3" />
       <recent name="test" />
       <recent name="test\Two_Sum" />
@@ -210,7 +184,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest">
+  <component name="RunManager" selected="JUnit.SolutionTest (1)">
+    <configuration name="SolutionTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.Longest_Palindromic_Substring_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.Longest_Palindromic_Substring_5" />
+      <option name="MAIN_CLASS_NAME" value="test.Longest_Palindromic_Substring_5.SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
@@ -226,17 +215,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.testLengthOfLongestSubstring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.longestPalindrome_1_DP" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.Longest_Substring_Without_repeating_Characters_3.*" />
+          <option name="PATTERN" value="test.Longest_Palindromic_Substring_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.Longest_Substring_Without_repeating_Characters_3" />
-      <option name="MAIN_CLASS_NAME" value="test.Longest_Substring_Without_repeating_Characters_3.SolutionTest" />
-      <option name="METHOD_NAME" value="testLengthOfLongestSubstring" />
+      <option name="PACKAGE_NAME" value="test.Longest_Palindromic_Substring_5" />
+      <option name="MAIN_CLASS_NAME" value="test.Longest_Palindromic_Substring_5.SolutionTest" />
+      <option name="METHOD_NAME" value="longestPalindrome_1_DP" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.longestPalindrome_2_M" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.Longest_Palindromic_Substring_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.Longest_Palindromic_Substring_5" />
+      <option name="MAIN_CLASS_NAME" value="test.Longest_Palindromic_Substring_5.SolutionTest" />
+      <option name="METHOD_NAME" value="longestPalindrome_2_M" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -260,9 +265,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest (1)" />
+        <item itemvalue="JUnit.SolutionTest.longestPalindrome_2_M" />
+        <item itemvalue="JUnit.SolutionTest.longestPalindrome_1_DP" />
         <item itemvalue="JUnit.SolutionTest" />
         <item itemvalue="JUnit.SolutionTest.testTwoSum" />
-        <item itemvalue="JUnit.SolutionTest.testLengthOfLongestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -278,48 +285,49 @@
       <updated>1556525406312</updated>
       <workItem from="1556525409558" duration="1906000" />
       <workItem from="1556527432378" duration="11320000" />
+      <workItem from="1557027323608" duration="9699000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionTest_testLengthOfLongestSubstring - 2019.04.30 at 09h 49m 08s.xml">
-      <configuration name="SolutionTest.testLengthOfLongestSubstring" configurationId="JUnit" />
+    <history-entry file="SolutionTest_(1) - 2019.05.05 at 15h 08m 57s.xml">
+      <configuration name="SolutionTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testLengthOfLongestSubstring - 2019.04.30 at 09h 49m 24s.xml">
-      <configuration name="SolutionTest.testLengthOfLongestSubstring" configurationId="JUnit" />
+    <history-entry file="SolutionTest_longestPalindrome_2_M - 2019.05.05 at 15h 16m 33s.xml">
+      <configuration name="SolutionTest.longestPalindrome_2_M" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testLengthOfLongestSubstring - 2019.04.30 at 10h 15m 45s.xml">
-      <configuration name="SolutionTest.testLengthOfLongestSubstring" configurationId="JUnit" />
+    <history-entry file="SolutionTest_longestPalindrome_2_M - 2019.05.05 at 15h 16m 36s.xml">
+      <configuration name="SolutionTest.longestPalindrome_2_M" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testLengthOfLongestSubstring - 2019.04.30 at 10h 17m 49s.xml">
-      <configuration name="SolutionTest.testLengthOfLongestSubstring" configurationId="JUnit" />
+    <history-entry file="SolutionTest_longestPalindrome_2_M - 2019.05.05 at 15h 24m 03s.xml">
+      <configuration name="SolutionTest.longestPalindrome_2_M" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testLengthOfLongestSubstring - 2019.04.30 at 10h 19m 58s.xml">
-      <configuration name="SolutionTest.testLengthOfLongestSubstring" configurationId="JUnit" />
+    <history-entry file="SolutionTest_longestPalindrome_2_M - 2019.05.05 at 15h 26m 13s.xml">
+      <configuration name="SolutionTest.longestPalindrome_2_M" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testTwoSum - 2019.04.30 at 10h 38m 25s.xml">
-      <configuration name="SolutionTest.testTwoSum" configurationId="JUnit" />
+    <history-entry file="SolutionTest_longestPalindrome_2_M - 2019.05.05 at 15h 26m 16s.xml">
+      <configuration name="SolutionTest.longestPalindrome_2_M" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testTwoSum - 2019.04.30 at 10h 42m 14s.xml">
-      <configuration name="SolutionTest.testTwoSum" configurationId="JUnit" />
+    <history-entry file="SolutionTest_longestPalindrome_2_M - 2019.05.05 at 15h 27m 08s.xml">
+      <configuration name="SolutionTest.longestPalindrome_2_M" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2019.04.30 at 10h 42m 32s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_longestPalindrome_2_M - 2019.05.05 at 15h 30m 11s.xml">
+      <configuration name="SolutionTest.longestPalindrome_2_M" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2019.04.30 at 10h 49m 29s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_longestPalindrome_2_M - 2019.05.05 at 15h 30m 16s.xml">
+      <configuration name="SolutionTest.longestPalindrome_2_M" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2019.04.30 at 10h 52m 30s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_(1) - 2019.05.05 at 15h 31m 40s.xml">
+      <configuration name="SolutionTest (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13226000" />
+    <option name="totallyTimeSpent" value="22925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08850227" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19515885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -329,8 +337,8 @@
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.16393442" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.44590163" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.18196721" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.63278687" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -350,7 +358,7 @@
       <window_info anchor="right" id="Database" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17019667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19515885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -359,9 +367,9 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.16393442" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32459018" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.16393442" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.18196721" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.63278687" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -384,19 +392,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Longest_Palindromic_Substring_5/Solution.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Two_Sum/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Two_Sum/SolutionTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/Two_Sum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Two_Sum/Solution.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Exception.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
@@ -440,20 +451,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Add_Two_Numbers_2/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Add_Two_Numbers_2/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/Longest_Substring_Without_repeating_Characters_3/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="428">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Two_Sum_1/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Longest_Palindromic_Substring_5/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Two_Sum_1/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="66">
+          <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -462,35 +488,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Longest_Substring_Without_Repeating_Characters_3/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="396">
+          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Two_Sum_1/SolutionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/Longest_Palindromic_Substring_5/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="374">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Longest_Substring_Without_repeating_Characters_3/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="14" column="67" lean-forward="true" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
           </folding>
         </state>
       </provider>
